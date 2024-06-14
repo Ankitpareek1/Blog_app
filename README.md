@@ -1,4 +1,4 @@
-# Blog_app
+Blog_app
 
 Technologies Used:
 PHP: The core language used for server-side scripting to handle data processing and dynamic content generation.
