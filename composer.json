@@ -1,0 +1,7 @@
+{
+  "name": "Ankitpareek1/index.php",
+  "description": "A sample PHP project",
+  "require": {
+    "php": "^7.4 || ^8.0"
+  }
+}
